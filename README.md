@@ -47,12 +47,4 @@ The Hobbit by J.R.R. Tolkien
 
 It also creates a member called Sana. The program then demonstrates borrowing and returning the book Harry Potter.
 
-How to Run
-Make sure Python is installed on your computer.
-Open the project in VS Code.
-Run the Python file using:
-python library.py
-Technologies Used
-Python
-Object-Oriented Programming (OOP)
-Python lists and classes
+
